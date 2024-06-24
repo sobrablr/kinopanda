@@ -1,3 +1,4 @@
 # kinopanda
 Смотреть фильмы онлайн бесплатно в хорошем качестве
-[url]https://kinopanda.xyz[/url]
+<a href='https://kinopanda.xyz'>https://kinopanda.xyz</a>
+
